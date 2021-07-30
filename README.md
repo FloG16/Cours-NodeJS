@@ -44,7 +44,7 @@ npm init
 
 
 
-
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 -- WIKIPEDIA --
 
@@ -58,3 +58,7 @@ ou Apache lors du déploiement de sites et d'applications web développés avec 
 Concrètement, Node.js est un environnement bas niveau permettant l’exécution de JavaScript côté serveur.
 
 Node.js est utilisé notamment comme plateforme de serveur Web, elle est utilisée par Groupon3, Vivaldi, SAP4, LinkedIn5,6, Microsoft7,8, Yahoo!9, Walmart10, Rakuten, Sage et PayPal11,12. 
+
+Node.js est utilisé pour faire des applications cross-plateforme avec des framework comme Ionic pour les applications mobiles ou encore Electron pour les applications desktop. Les géants comme Discord ou encore Slack utilisent ce système.
+
+Node.js est aussi beaucoup utilisé pour faire des serveurs de bot informatique ou bien des serveurs web. Certaines API Rest pour l'authentification sont faites avec Node.js. 
