@@ -41,3 +41,20 @@ http://devdocs.io
 //Taper cette commande dans le terminal:
 npm init
 //Répondre ensuite aux questions sur la configuration du projet
+
+
+
+
+
+-- WIKIPEDIA --
+
+Node.js est une plateforme logicielle libre en JavaScript, orientée vers les applications réseau événementielles hautement concurrentes qui doivent pouvoir monter en charge.
+
+Elle utilise la machine virtuelle V8, la librairie libuv pour sa boucle d'évènements, et implémente sous licence MIT les spécifications CommonJS.
+
+Parmi les modules natifs de Node.js, on retrouve http qui permet le développement de serveur HTTP. Il est donc possible de se passer de serveurs web tels que Nginx 
+ou Apache lors du déploiement de sites et d'applications web développés avec Node.js.
+
+Concrètement, Node.js est un environnement bas niveau permettant l’exécution de JavaScript côté serveur.
+
+Node.js est utilisé notamment comme plateforme de serveur Web, elle est utilisée par Groupon3, Vivaldi, SAP4, LinkedIn5,6, Microsoft7,8, Yahoo!9, Walmart10, Rakuten, Sage et PayPal11,12. 
